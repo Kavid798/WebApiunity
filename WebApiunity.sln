@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiunity", "WebApiunity\WebApiunity.csproj", "{FF495934-A30E-4F3B-AF6C-E2E8F79BF3C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF495934-A30E-4F3B-AF6C-E2E8F79BF3C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF495934-A30E-4F3B-AF6C-E2E8F79BF3C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF495934-A30E-4F3B-AF6C-E2E8F79BF3C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF495934-A30E-4F3B-AF6C-E2E8F79BF3C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FB9C163-E12C-4E78-83FB-93A1C664BD98}
+	EndGlobalSection
+EndGlobal
